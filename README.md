@@ -153,6 +153,6 @@ Then: *Column tools → Sort by column → Time of Day Sort*.
 **Aman Kumar Sri Mali** — Data Analyst
 Skills: Python · SQL · Excel · Power BI
 
-🔗 LinkedIn: *add your profile link*
+🔗 LinkedIn: *www.linkedin.com/in/aman-kumar-shri-mali-58835b252*
 
 ⭐ If you found this useful, give the repo a star!
