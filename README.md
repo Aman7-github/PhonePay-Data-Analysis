@@ -1,4 +1,4 @@
-# 📊 PhonePe Transaction Analysis (2024–2026) — Power BI
+# 📊 PhonePay Transaction Analysis (2024–2026) — Power BI
 
 An end-to-end personal data analytics project: I exported my own PhonePe (UPI) transaction history, cleaned it, modelled it, and built an interactive Power BI dashboard to understand **when, how often, and how much** I spend.
 
@@ -48,7 +48,7 @@ Personal PhonePe transaction statement (PDF/export converted to a table), coveri
 
 ## 📈 Dashboard Overview
 
-**Page 1 – Phone Pay Transaction Analysis**
+**Page 1 – Phonepay Pay Transaction Analysis**
 - KPI cards: Total Transactions, Total Credit, Total Debit
 - Year slicer (2024 / 2025 / 2026) and **Day Shift** slicer (Time of Day)
 - Monthly Payment Analysis (area chart)
@@ -139,7 +139,7 @@ Then: *Column tools → Sort by column → Time of Day Sort*.
 ## 📁 Repository Structure
 
 ```
-├── Phone Pay Analysis.pbix
+├── Phonepay Pay Analysis.pbix
 ├── PhonePe_Transaction_Report.docx
 ├── images/
 │   └── dashboard.png
